@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/swingx-action-1.6.5-1.jar"/>
+	<classpathentry kind="lib" path="lib/swingx-autocomplete-1.6.5-1.jar"/>
+	<classpathentry kind="lib" path="lib/swingx-common-1.6.5-1.jar"/>
+	<classpathentry kind="lib" path="lib/swingx-core-1.6.5-1.jar"/>
+	<classpathentry kind="lib" path="lib/swingx-graphics-1.6.5-1.jar"/>
+	<classpathentry kind="lib" path="lib/swingx-painters-1.6.5-1.jar"/>
+	<classpathentry kind="lib" path="lib/swingx-plaf-1.6.5-1.jar"/>
+	<classpathentry kind="lib" path="lib/grak-jackson-core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/grak-jaxbinding-core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/grak-jaxws-server-monitor-core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/grak-jaxws-server-monitor-core-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/grak-ressources.jar"/>
+	<classpathentry kind="lib" path="lib/grak-rest-client-core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.9.9.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.9.9.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.9.9.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-client-1.19.1.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-core-1.19.1.jar"/>
+	<classpathentry kind="lib" path="lib/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
